@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+h1 {
+    color: #21976a;
+}
+h2 {
+    color: #2f9990;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 4px ;
+}
+h3 {
+    color:#2f9990;
+}
+button {
+    background-color:#2f9990;
+    padding: 12px 25px;
+    border-radius: 20px;
+}
